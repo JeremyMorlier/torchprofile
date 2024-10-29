@@ -8,7 +8,7 @@ This is a profiler to count the number of MACs / FLOPs of PyTorch models based o
 
 
 ```bash
-pip install torchprofile
+pip install -e https://github.com/JeremyMorlier/torchprofile
 ```
 
 ## Getting Started
